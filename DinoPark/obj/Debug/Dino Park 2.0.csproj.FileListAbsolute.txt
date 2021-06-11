@@ -1,0 +1,28 @@
+D:\Проекты программирования\Visual Projects\DinoPark\bin\Debug\Dino Park 2.0.exe.config
+D:\Проекты программирования\Visual Projects\DinoPark\bin\Debug\Dino Park 2.0.exe
+D:\Проекты программирования\Visual Projects\DinoPark\bin\Debug\Dino Park 2.0.pdb
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\CustomisationWindow.g.cs
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\Dino.g.cs
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\GamePlayground.g.cs
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\MainWindow.g.cs
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\TutorialWindow.g.cs
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\App.g.cs
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\Dino Park 2.0_MarkupCompile.cache
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\Dino Park 2.0_MarkupCompile.lref
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\CustomisationWindow.baml
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\Dino.baml
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\GamePlayground.baml
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\MainWindow.baml
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\TutorialWindow.baml
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\Dino Park 2.0.g.resources
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\Dino_Park_2._0.Properties.Resources.resources
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\Dino Park 2.0.csproj.GenerateResource.cache
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\Dino Park 2.0.csproj.CoreCompileInputs.cache
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\Dino Park 2.0.exe
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\Dino Park 2.0.pdb
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\Octopus.g.cs
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\Octopus.baml
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\Dino Park 2.0.csprojAssemblyReference.cache
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\Seashell.g.cs
+D:\Проекты программирования\Visual Projects\DinoPark\obj\Debug\Seashell.baml

@@ -1,0 +1,28 @@
+﻿<Window x:Class="Dino_Park_2._0.GamePlayground"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Dino_Park_2._0"
+        mc:Ignorable="d"
+        Title="" Height="605" Width="689" Closing="Window_Closing" KeyDown="dino_KeyDown" KeyUp="dino_KeyUp" Loaded="Window_Loaded" ResizeMode="NoResize">
+    <Window.Background>
+        <ImageBrush ImageSource="Sandbox.png"/>
+    </Window.Background>
+    <Grid x:Name="grid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <local:Dino x:Name="dino" Margin="140,127,362,262"/>
+        <local:Octopus x:Name="octopus" Margin="415,349,192,159"/>
+        <TextBlock x:Name="Score" Margin="518,0,0,496" Height="Auto" TextWrapping="Wrap" Text="NO" FontSize="48"/>
+        <local:Seashell x:Name="seashell1" Height="Auto" Margin="410,205,203,301" Width="Auto"/>
+        <local:Seashell x:Name="seashell2" Height="Auto" Margin="560,320,53,186" Width="Auto"/>
+        <local:Seashell x:Name="seashell3" Height="Auto" Margin="255,395,358,111" Width="Auto"/>
+        <Canvas x:Name="hpBox" Margin="140,79,0,0" Height="45" VerticalAlignment="Top" HorizontalAlignment="Left" Width="181">
+            <Label Content="HP" Canvas.Left="84" Height="25"/>
+            <ProgressBar x:Name="hpBar" Height="17" Canvas.Top="25" Width="179" Value="100" Canvas.Left="1"/>
+            <Label x:Name="hpLabel" Content="100" HorizontalContentAlignment="Center" VerticalContentAlignment="Top" Canvas.Left="70" FontSize ="8" Height="19" Canvas.Top="23" Width="50"/>
+        </Canvas>
+    </Grid>
+</Window>
